@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+.first{
+    width: 800px;
+    height: 600px; 
+}
+
+.second{
+    width: 800px;
+    height: 100px;
+    background:yellow;
+    float: left; 
+}
+
+.third{
+    width: 800px;
+    height: 340px;
+    float: left; 
+    margin: 30px 0;
+}
+
+.fourth{
+    width: 140px;
+    min-height: 340px;
+    background:yellow;
+    float: left; 
+}
+
+.fifth{
+    width: 500px;
+    min-height: 340px;
+    background:yellow;
+    float: left; 
+    margin: 0 30px;
+}
+
+.sixs{
+    width: 100px;
+    min-height: 340px;
+    background:yellow;
+    float: left; 
+}
+
+.sevens{
+    width: 800px;
+    height: 100px;
+    background:yellow;
+    float: left; 
+}
